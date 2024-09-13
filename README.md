@@ -1,1 +1,1 @@
-# CNN e ViT para Indentificação de melanomas
+# Comparando CNN e ViT para Indentificação de melanomas
